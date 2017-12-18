@@ -1,0 +1,7 @@
+G:\FYP\TLS\TLS-Web\TLS\Common\PUCIT.AIMRL.Common.Logger\bin\Debug\PUCIT.AIMRL.Common.Logger.dll
+G:\FYP\TLS\TLS-Web\TLS\Common\PUCIT.AIMRL.Common.Logger\bin\Debug\PUCIT.AIMRL.Common.Logger.pdb
+G:\FYP\TLS\TLS-Web\TLS\Common\PUCIT.AIMRL.Common.Logger\bin\Debug\log4net.dll
+G:\FYP\TLS\TLS-Web\TLS\Common\PUCIT.AIMRL.Common.Logger\bin\Debug\log4net.xml
+G:\FYP\TLS\TLS-Web\TLS\Common\PUCIT.AIMRL.Common.Logger\obj\Debug\PUCIT.AIMRL.Common.Logger.csprojResolveAssemblyReference.cache
+G:\FYP\TLS\TLS-Web\TLS\Common\PUCIT.AIMRL.Common.Logger\obj\Debug\PUCIT.AIMRL.Common.Logger.dll
+G:\FYP\TLS\TLS-Web\TLS\Common\PUCIT.AIMRL.Common.Logger\obj\Debug\PUCIT.AIMRL.Common.Logger.pdb

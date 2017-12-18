@@ -1,0 +1,11 @@
+G:\FYP\TLS\TLS-Web\TLS\DataFramework\PUCIT.AIMRL.TLS.Entities\bin\Debug\PUCIT.AIMRL.TLS.Entities.dll
+G:\FYP\TLS\TLS-Web\TLS\DataFramework\PUCIT.AIMRL.TLS.Entities\bin\Debug\PUCIT.AIMRL.TLS.Entities.pdb
+G:\FYP\TLS\TLS-Web\TLS\DataFramework\PUCIT.AIMRL.TLS.Entities\bin\Debug\EntityFramework.dll
+G:\FYP\TLS\TLS-Web\TLS\DataFramework\PUCIT.AIMRL.TLS.Entities\bin\Debug\EntityFramework.SqlServer.dll
+G:\FYP\TLS\TLS-Web\TLS\DataFramework\PUCIT.AIMRL.TLS.Entities\bin\Debug\PUCIT.AIMRL.Common.dll
+G:\FYP\TLS\TLS-Web\TLS\DataFramework\PUCIT.AIMRL.TLS.Entities\bin\Debug\PUCIT.AIMRL.Common.pdb
+G:\FYP\TLS\TLS-Web\TLS\DataFramework\PUCIT.AIMRL.TLS.Entities\bin\Debug\EntityFramework.xml
+G:\FYP\TLS\TLS-Web\TLS\DataFramework\PUCIT.AIMRL.TLS.Entities\bin\Debug\EntityFramework.SqlServer.xml
+G:\FYP\TLS\TLS-Web\TLS\DataFramework\PUCIT.AIMRL.TLS.Entities\obj\Debug\PUCIT.AIMRL.TLS.Entities.csprojResolveAssemblyReference.cache
+G:\FYP\TLS\TLS-Web\TLS\DataFramework\PUCIT.AIMRL.TLS.Entities\obj\Debug\PUCIT.AIMRL.TLS.Entities.dll
+G:\FYP\TLS\TLS-Web\TLS\DataFramework\PUCIT.AIMRL.TLS.Entities\obj\Debug\PUCIT.AIMRL.TLS.Entities.pdb

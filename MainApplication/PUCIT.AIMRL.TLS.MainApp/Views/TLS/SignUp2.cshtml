@@ -1,0 +1,251 @@
+﻿
+
+@{
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+
+@section Header{
+    <script type="text/javascript" src="@Url.Content("~/Scripts/mywebapp/TLS/mywebapp.ui.SignUp2.js?id=")@Guid.NewGuid().ToString()"></script>
+}
+
+@section scripts
+{
+    <script type="text/javascript">
+
+        $(function () {
+            MyWebApp.UI.SignUp2.readyMain();
+
+        });
+
+    </script>
+}
+
+    <section id="contact" class="section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="header-section text-center">
+                    <h2>Sign Up</h2>
+
+                    <hr class="bottom-line">
+                </div>
+
+                <h4>Step-2</h4>
+                <br />
+                <!--
+                 <div id="sendmessage">Your have succefully completed signup step 1</div>
+                 <div id="errormessage"></div>
+                -->
+                <form action="" method="post" role="form" class="contactForm">
+                    <div class="col-md-6 col-sm-6 col-xs-12 left">
+
+                        <div class="form-group">
+                            <input type="text" class="form-control" name="addressline1" id="addressline1" placeholder="Line 1(House No, Street No)" data-rule="email" data-msg="Please enter a valid email" />
+                            <div class="validation"></div>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" name="addressline2" class="form-control form" id="addressline2" placeholder="Line 2(Area, Colony, Road)" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                            <div class="validation"></div>
+                        </div>
+                        <div class="form-group">
+                            Province
+                            <select id="province">
+                                <option>-- Select Provience --</option>
+                                <option>Punjab</option>
+                                <option>Sindh</option>
+                                <option>KPK</option>
+                                <option>Balochistan</option>
+                                <option>FATA</option>
+                                <option>Gilgit-Biltistan</option>
+                                <option>Azad-Kashmir</option>
+                            </select>
+
+                            <div class="validation"></div>
+                        </div>
+
+
+                        <div class="form-group">
+                            City
+                            <select id="city">
+                                <option>-- Select City --</option>
+                                <option>Lahore</option>
+                                <option>Karachi</option>
+                                <option>Peshawar</option>
+                                <option>Quetta</option>
+                                <option>Islamabad</option>
+                                <option>Multan</option>
+                                <option>Faislabad</option>
+                            </select>
+
+                            <div class="validation"></div>
+                        </div>
+
+
+
+
+
+                        <div class="form-group">
+                            <input type="text" name="postalcode" class="form-control form" id="postalcode" placeholder="Postal Code" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                            <div class="validation"></div>
+                        </div>
+
+                        <div class="form-group">
+                            <input type="text" name="CNIC" class="form-control form" id="CNIC" placeholder="CNIC" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                            <div class="validation"></div>
+                        </div>
+
+
+                        <div class="form-group">
+                            <input type="text" name="cell" class="form-control form" id="cell" placeholder="Cell No." data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                            <div class="validation"></div>
+                        </div>
+
+
+                        <div class="form-group">
+                            Date of birth
+                            <select name="Day" id="day">
+                                <option value="Day">--Day-- </option>
+                                <option value="1">1 </option>
+                                <option value="2">2 </option>
+                                <option value="3">3 </option>
+                                <option value="4">4 </option>
+                                <option value="5">5 </option>
+                                <option value="6">6 </option>
+                                <option value="7">7 </option>
+                                <option value="8">8 </option>
+                                <option value="9">9 </option>
+                                <option value="10">10 </option>
+                                <option value="11">11 </option>
+                                <option value="12">12 </option>
+                                <option value="13">13 </option>
+                                <option value="14">14 </option>
+                                <option value="15">15 </option>
+                                <option value="16">16 </option>
+                                <option value="17">17 </option>
+                                <option value="18">18 </option>
+                                <option value="19">19 </option>
+                                <option value="20">20</option>
+                                <option value="21">21</option>
+                                <option value="22">22</option>
+                                <option value="23">23</option>
+                                <option value="24">24</option>
+                                <option value="25">25</option>
+                                <option value="26">26</option>
+                                <option value="27">27</option>
+                                <option value="28">28</option>
+                                <option value="29">29</option>
+                                <option value="30">30</option>
+                                <option value="31">31</option>
+                            </select>
+
+                            <select name="month" id="month">
+                                <option value="month">--Month-- </option>
+                                <option value="jan">January</option>
+                                <option value="feb">February</option>
+                                <option value="march">March</option>
+                                <option value="april">April</option>
+                                <option value="may">May</option>
+                                <option value="june">June</option>
+                                <option value="july">July</option>
+                                <option value="aug">August</option>
+                                <option value="sep">September</option>
+                                <option value="oct">October</option>
+                                <option value="nov">November</option>
+                                <option value="dec">December</option>
+                            </select>
+
+                            <select name="year" id="year">
+                                <option>--Year--</option>
+                                <option>2017</option>
+                                <option>2016</option>
+                                <option>2015</option>
+                                <option>2014</option>
+                                <option>2013</option>
+                                <option>2012</option>
+                                <option>2011</option>
+                                <option>2010</option>
+                                <option>2009</option>
+                                <option>2008</option>
+                                <option>2007</option>
+                                <option>2006</option>
+                                <option>2005</option>
+                                <option>2004</option>
+                                <option>2003</option>
+                                <option>2002</option>
+                                <option>2001</option>
+                                <option>2000</option>
+                                <option>1999</option>
+                                <option>1998</option>
+                                <option>1997</option>
+                                <option>1996</option>
+                                <option>1995</option>
+                                <option>1994</option>*
+                                <option>1993</option>
+                                <option>1992</option>
+                                <option>1991</option>
+                                <option>1990</option>
+                                <option>1989</option>
+                                <option>1988</option>
+                                <option>1987</option>
+                                <option>1986</option>
+                                <option>1985</option>
+                                <option>1984</option>
+                                <option>1983</option>
+                                <option>1982</option>
+                                <option>1981</option>
+                                <option>1980</option>
+                                <option>1979</option>
+                                <option>1978</option>
+                                <option>1977</option>
+                                <option>1976</option>
+                                <option>1975</option>
+                                <option>1974</option>
+                                <option>1973</option>
+                                <option>1972</option>
+                                <option>1971</option>
+                                <option>1970</option>
+                                <option>1969</option>
+                                <option>1968</option>
+                                <option>1967</option>
+                                <option>1966</option>
+                                <option>1965</option>
+                                <option>1964</option>
+                                <option>1963</option>
+                                <option>1962</option>
+                                <option>1961</option>
+                                <option>1960</option>
+                                <option>1959</option>
+                                <option>1958</option>
+                                <option>1957</option>
+                                <option>1956</option>
+                                <option>1955</option>
+                                <option>1954</option>
+                                <option>1953</option>
+                                <option>1952</option>
+                                <option>1951</option>
+                                <option>1950</option>
+                            </select>
+
+                            <div class="validation"></div>
+                        </div>
+                        <!-- Button -->
+                        <div class="col-xs-12">
+                            <div class="header-section text-center">
+
+                                <button type="submit" id="btn-next" name="btn-next" class="form contact-form-button light-form-button oswald light">Next</button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+
+            </div>
+        </div>
+    </section>
+    <!--/ sign up 2-->
+
+    @*<script src="js/jquery.min.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/custom.js"></script>
+    <script src="contactform/contactform.js"></script>*@
+

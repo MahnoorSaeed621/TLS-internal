@@ -1,0 +1,64 @@
+﻿
+
+@{
+    Layout = "~/Views/Shared/_PublicLayout.cshtml";
+}
+
+
+@section Header
+{
+    <script type="text/javascript" src="@Url.Content("~/Scripts/mywebapp/TLS/mywebapp.ui.ShowData.js?id=")@Guid.NewGuid().ToString()"></script>
+}
+@section scripts
+{
+    <script type="text/javascript">
+
+        $(function () {
+            MyWebApp.UI.ShowData.readyMain();
+
+        });
+
+    </script>
+
+
+
+}
+
+
+
+<section id="contact" class="section-padding">
+    <div class="container">
+        <div class="row">
+            <div class="header-section text-center">
+                <h2>Enter your mail ID and I'll tell you your name</h2>
+
+                <hr class="bottom-line">
+            </div>
+
+            <div id="errormessage"></div>
+
+            <form action="" method="post" role="form" class="contactForm">
+
+                <div class="form-group">
+
+                    <input type="email" class="form-control" name="email" id="email" placeholder="Email Address" data-rule="email" data-msg="Please enter a valid email" />
+                    <div class="validation"></div>
+                </div>
+
+                <div class="col-xs-12">
+                    <!-- Button -->
+                    <button type="submit" id="submit" name="submit" class="form contact-form-button light-form-button oswald light">Show Name</button>
+                </div>
+
+                <br /><br /><br /><br /><br />
+                <div class="form-group">
+
+                    <input type="text" name="name" class="form-control form" id="name"  data-rule="minlen:4"  />
+                    <div class="validation"></div>
+                </div>
+
+            </form>
+
+        </div>
+    </div>
+</section>
