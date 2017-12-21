@@ -6,7 +6,7 @@ using System.Web.Mvc;
 
 namespace PUCIT.AIMRL.TLS.MainApp.Controllers
 {
-    public class TLSController : Controller
+    public class RegistrationController : Controller
     {
 
         //

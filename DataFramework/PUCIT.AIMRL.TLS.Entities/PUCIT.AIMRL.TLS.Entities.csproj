@@ -46,6 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DBEntities\Address.cs" />
+    <Compile Include="DBEntities\Lawyers.cs" />
     <Compile Include="DBEntities\Login.cs" />
     <Compile Include="DBEntities\LoginHistory.cs" />
     <Compile Include="DBEntities\Permissions.cs" />

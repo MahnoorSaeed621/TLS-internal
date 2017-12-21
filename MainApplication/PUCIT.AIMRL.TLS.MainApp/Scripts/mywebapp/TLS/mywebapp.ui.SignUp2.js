@@ -19,7 +19,7 @@ MyWebApp.UI.SignUp2 = (function () {
 
         $('#btn-next').click(function (e) {
             //if (validateData()) {
-            //saveData();
+            saveData();
             loadNextPage();
             //}
             return false;
@@ -28,10 +28,14 @@ MyWebApp.UI.SignUp2 = (function () {
     }
 
     function loadNextPage() {
-        alert("in load next");
 
         debugger;
-        window.location.href = "/TLS/TLS/SignUp3";
+
+        var user = JSON.parse(localStorage.getItem('user'));
+
+        if (user.usertype == 'Lawyer')
+            window.location.href = "/TLS/Registration/SignUp3";
+
     }
 
     function validateData() {
@@ -39,49 +43,42 @@ MyWebApp.UI.SignUp2 = (function () {
     }
 
     function saveData() {
+        
         debugger;
 
         var adress1 = $("#addressline1").val();
+        
         var adress2 = $("#addressline2").val();
+        
         var province = $("#province").val();
+        
         var city = $("#city").val();
+        
         var postalCode = $("#postalcode").val();
+        
         var CNIC = $("#CNIC").val();
+        
         var cellNo = $("#cell").val();
+        
+        var DOB = new Date();
         var day = $("#day").val();
         var month = $("#month").val();
         var Year = $("#year").val();
+        DOB.setFullYear(Year,month, day);
+       
 
-
-        //btn-next
-
-
-        var UserObj = {
-            FName: fname,
-            LName: lname,
-            Gender: gender,
-            UserType: usertype,
-            Password: password,
-            Email: email
+        var page2SignUpData = {
+            Line1: adress1,
+            Line2: adress2,
+            CityName: city,
+            PostalCode: postalCode,
+            ProvinceName: province,
+            DOB: DOB,
+            CNIC : CNIC,
+            cellNo: cellNo,
         }
 
-        var dateToSend = JSON.stringify(UserObj);
-        var url = "TLSInfo/saveUser";
-
-        MyWebApp.Globals.MakeAjaxCall("POST", url, dateToSend, function (result) {
-            //
-            debugger;
-            if (result.success == true) {
-                console.log(result);
-                alert("Data Saved successfully")
-            }
-            else {
-                MyWebApp.UI.showRoasterMessage(result.error, Enums.NessageType.Error);
-            }
-
-        }, function (xhr, ajaxOptions, thrownError) {
-            MyWebApp.UI.showRoasterMessage('A problem has occured while saving data: ' + thrownError + '", Please try Again."', Enums.MessageType.Error);
-        });
+        localStorage.setItem('page2SignUpData', page2SignUpData);
 
     }
 

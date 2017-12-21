@@ -176,7 +176,7 @@
     <Compile Include="Controllers\LoginController.cs" />
     <Compile Include="Controllers\PartialController.cs" />
     <Compile Include="Controllers\SecurityController.cs" />
-    <Compile Include="Controllers\TLSController.cs" />
+    <Compile Include="Controllers\RegistrationController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -589,10 +589,15 @@
     <Content Include="Views\TLS\ShowData.cshtml" />
     <Content Include="Views\TLS\ForgetPassword.cshtml" />
     <Content Include="Views\TLS\SignIn.cshtml" />
-    <Content Include="Views\TLS\SignUp1.cshtml" />
-    <Content Include="Views\TLS\SignUp2.cshtml" />
-    <Content Include="Views\TLS\SignUp3.cshtml" />
-    <Content Include="Scripts\mywebapp\TLS\mywebapp.ui.SignUp3" />
+    <Content Include="Views\TLS\SignUp1.cshtml">
+      <BrowseToURL>~/Registration/SignUp1</BrowseToURL>
+    </Content>
+    <Content Include="Views\TLS\SignUp2.cshtml">
+      <BrowseToURL>~/Registration/SignUp2</BrowseToURL>
+    </Content>
+    <Content Include="Views\TLS\SignUp3.cshtml">
+      <BrowseToURL>~/Registration/SignUp3</BrowseToURL>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
