@@ -34,7 +34,7 @@ MyWebApp.UI.SignUp2 = (function () {
         var user = JSON.parse(localStorage.getItem('user'));
 
         if (user.usertype == 'Lawyer')
-            window.location.href = "/TLS/Registration/SignUp3";
+            window.location.href = "/TLS/TLS/SignUp3";
 
     }
 

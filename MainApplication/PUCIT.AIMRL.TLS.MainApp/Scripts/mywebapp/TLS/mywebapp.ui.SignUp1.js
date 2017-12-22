@@ -34,7 +34,7 @@ MyWebApp.UI.SignUp1 = (function () {
         //alert("in load next");
 
         debugger;
-        window.location.href = "/TLS/Registration/SignUp2";
+        window.location.href = "/TLS/TLS/SignUp2";
 
 
     }
