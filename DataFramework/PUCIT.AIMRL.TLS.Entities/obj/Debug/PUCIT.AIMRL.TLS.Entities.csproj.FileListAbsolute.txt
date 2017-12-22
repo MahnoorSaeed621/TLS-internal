@@ -9,3 +9,14 @@ G:\FYP\TLS\TLS-Web\TLS\DataFramework\PUCIT.AIMRL.TLS.Entities\bin\Debug\EntityFr
 G:\FYP\TLS\TLS-Web\TLS\DataFramework\PUCIT.AIMRL.TLS.Entities\obj\Debug\PUCIT.AIMRL.TLS.Entities.csprojResolveAssemblyReference.cache
 G:\FYP\TLS\TLS-Web\TLS\DataFramework\PUCIT.AIMRL.TLS.Entities\obj\Debug\PUCIT.AIMRL.TLS.Entities.dll
 G:\FYP\TLS\TLS-Web\TLS\DataFramework\PUCIT.AIMRL.TLS.Entities\obj\Debug\PUCIT.AIMRL.TLS.Entities.pdb
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.Entities\bin\Debug\PUCIT.AIMRL.TLS.Entities.dll
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.Entities\bin\Debug\PUCIT.AIMRL.TLS.Entities.pdb
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.Entities\bin\Debug\EntityFramework.dll
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.Entities\bin\Debug\EntityFramework.SqlServer.dll
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.Entities\bin\Debug\PUCIT.AIMRL.Common.dll
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.Entities\bin\Debug\PUCIT.AIMRL.Common.pdb
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.Entities\bin\Debug\EntityFramework.xml
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.Entities\bin\Debug\EntityFramework.SqlServer.xml
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.Entities\obj\Debug\PUCIT.AIMRL.TLS.Entities.csprojResolveAssemblyReference.cache
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.Entities\obj\Debug\PUCIT.AIMRL.TLS.Entities.dll
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.Entities\obj\Debug\PUCIT.AIMRL.TLS.Entities.pdb

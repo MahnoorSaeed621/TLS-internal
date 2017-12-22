@@ -18,3 +18,23 @@ G:\FYP\TLS\TLS-Web\TLS\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\log4net.xml
 G:\FYP\TLS\TLS-Web\TLS\DataFramework\PUCIT.AIMRL.TLS.DAL\obj\Debug\PUCIT.AIMRL.TLS.DAL.csprojResolveAssemblyReference.cache
 G:\FYP\TLS\TLS-Web\TLS\DataFramework\PUCIT.AIMRL.TLS.DAL\obj\Debug\PUCIT.AIMRL.TLS.DAL.dll
 G:\FYP\TLS\TLS-Web\TLS\DataFramework\PUCIT.AIMRL.TLS.DAL\obj\Debug\PUCIT.AIMRL.TLS.DAL.pdb
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.TLS.DAL.dll.config
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.TLS.DAL.dll
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.TLS.DAL.pdb
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\EntityFramework.dll
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.Common.dll
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.Common.Logger.dll
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.TLS.Entities.dll
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.TLS.UI.Common.dll
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\log4net.dll
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.Common.Logger.pdb
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.Common.pdb
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.TLS.UI.Common.pdb
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.TLS.Entities.pdb
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\EntityFramework.xml
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\log4net.xml
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\obj\Debug\PUCIT.AIMRL.TLS.DAL.csprojResolveAssemblyReference.cache
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\obj\Debug\PUCIT.AIMRL.TLS.DAL.dll
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\obj\Debug\PUCIT.AIMRL.TLS.DAL.pdb
