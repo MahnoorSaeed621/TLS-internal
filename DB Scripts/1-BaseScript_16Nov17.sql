@@ -680,6 +680,7 @@ GO
 
 CREATE TABLE [dbo].[Lawyers](
 	[LawyerId] [int] IDENTITY(1,1) NOT NULL,
+	[UserId] [int] NOT NULL,
 	[LicenseNo] [int] NOT NULL,
 	[ShortIntro] [varchar](300) NULL,
 	[ChamberCount] [int] NULL,
@@ -699,6 +700,7 @@ GO
 
 CREATE PROCEDURE [dbo].[AddUpdateLawyer]
 	   @LawyerId int
+	  ,@UserId int
 	  ,@LicenseNo int
 	  ,@ShortIntro varchar(300)
 	  ,@ChamberCount int
@@ -727,9 +729,8 @@ BEGIN
 	ELSE
 	BEGIN
 		
-		INSERT INTO dbo.Lawyers(LicenseNo, ShortIntro, ChamberCount, CourtCount, Ratings, ModifiedOn, ModifiedBy)
-		VALUES(@LicenseNo , @ShortIntro ,@ChamberCount, @CourtCount, @Ratings, @ActivityTime,
-		@ActivityBy)
+		INSERT INTO dbo.Lawyers(UserId ,LicenseNo, ShortIntro, ChamberCount, CourtCount, Ratings, ModifiedOn, ModifiedBy)
+		VALUES(@UserId, @LicenseNo , @ShortIntro ,@ChamberCount, @CourtCount, @Ratings, @ActivityTime, @ActivityBy)
 		
 		Select @LawyerId = SCOPE_IDENTITY()
 	END
@@ -747,7 +748,7 @@ CREATE TABLE [dbo].[Address](
 	[CityName] [varchar](50) NULL,
 	[PostalCode] [int] NULL,
 	[ProvinceName] [varchar](20) NULL,
-	[AType] [bit] NOT NULL,
+	[AType] [bit] NOT NULL, -- 1 means home address and 2 means chamber address
  CONSTRAINT [PK_Address] PRIMARY KEY CLUSTERED 
 (
 	[AddressId] ASC

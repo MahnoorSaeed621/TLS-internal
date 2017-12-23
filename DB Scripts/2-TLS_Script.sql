@@ -1,4 +1,4 @@
-CREATE PROCEDURE [dbo].[AddUSER]
+CREATE PROCEDURE [dbo].[AddNewUser]
 (
        @Login varchar(50)
 	  ,@Password varchar(50)
@@ -19,7 +19,7 @@ CREATE PROCEDURE [dbo].[AddUSER]
       ,@CityName varchar(50)
       ,@PostalCode int
 	  ,@ProvinceName varchar(20)
-	  ,@AType bit
+	  ,@AType bit 
 
 	  ,@ReturnUserId int OUTPUT
 
@@ -28,25 +28,25 @@ AS
 
 -- STEP 1: Start the transaction
 BEGIN TRANSACTION AddClientTrans
-	EXECUTE @ReturnUserId = [sec].[AddUpdateUsers] @Login , @Password ,@Email, @FirstName, @LastName, @Gender,
-		@DateOfBirth, @Cnic, @CellNo, @LandLine, @ProfilePicture ,@ActivityTime
+	EXECUTE @ReturnUserId = [sec].[AddUpdateUsers] 0, @Login , @Password ,@Email, @FirstName, @LastName, @Gender,
+		@DateOfBirth, @Cnic, @CellNo, @LandLine, @ProfilePicture ,@ActivityTime ,1
 
 	IF @@ERROR <> 0
 	BEGIN
     -- Rollback the transaction
-		ROLLBACK
+		ROLLBACK TRANSACTION AddClientTrans
 
     -- Raise an error and return
 		RAISERROR ('Error in adding data to user table', 16, 1)
 		RETURN
 	END
 
-    EXECUTE [dbo].[AddUpdateAddress] @ReturnUserId ,@Line1 ,@Line2 ,@CityName ,@PostalCode ,@ProvinceName, @AType
+    EXECUTE [dbo].[AddUpdateAddress] 0, @ReturnUserId ,@Line1 ,@Line2 ,@CityName ,@PostalCode ,@ProvinceName, @AType
 
 	IF @@ERROR <> 0
 	BEGIN
     -- Rollback the transaction
-		ROLLBACK
+		ROLLBACK TRANSACTION AddClientTrans
 
     -- Raise an error and return
 		RAISERROR ('Error in adding data to address table.', 16, 1)
@@ -56,3 +56,18 @@ BEGIN TRANSACTION AddClientTrans
 	COMMIT TRANSACTION AddClientTrans
     
 GO
+
+
+-- testing addnewuser procedure
+
+--Declare @ReturnUserId int
+--Declare @dateobj datetime
+--set @dateobj = GETDATE();
+--Exec AddNewUser 'test', 'test pas', 'snfjknkjbjkf', 'fname', 'lname', 2, @dateobj, '352001212121', '03331111111',
+--				'121212212', 'bkjsbdjkbsajk', @dateobj, 'bzkcbs', 'line 2', 'lahore', 54600, 'punjab',1, @ReturnUserId
+
+--print @ReturnUserId
+--GO
+
+--select * from sec.Users
+--GO
