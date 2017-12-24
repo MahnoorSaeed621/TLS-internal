@@ -850,22 +850,22 @@ CREATE TABLE [dbo].[ExpertiseLawyerBridge](
 GO
 
 CREATE TABLE [dbo].[MeetingTime](
-	[MeetingId] [int] NOT NULL,
+	[MeetingId] [int] IDENTITY(1,1) NOT NULL,
 	[LawyerId] [int] NOT NULL,
-	[MonFrom] [time](7) NULL,
-	[MonTill] [time](7) NULL,
-	[TueFrom] [time](7) NULL,
-	[TueTill] [time](7) NULL,
-	[WedFrom] [time](7) NULL,
-	[WedTill] [time](7) NULL,
-	[ThuFrom] [time](7) NULL,
-	[ThuTill] [time](7) NULL,
-	[FriFrom] [time](7) NULL,
-	[FriTill] [time](7) NULL,
-	[SatFrom] [time](7) NULL,
-	[SatTill] [time](7) NULL,
-	[SunFrom] [time](7) NULL,
-	[SunTill] [time](7) NULL,
+	[MonFrom] [time] NULL,
+	[MonTill] [time] NULL,
+	[TueFrom] [time] NULL,
+	[TueTill] [time] NULL,
+	[WedFrom] [time] NULL,
+	[WedTill] [time] NULL,
+	[ThuFrom] [time] NULL,
+	[ThuTill] [time] NULL,
+	[FriFrom] [time] NULL,
+	[FriTill] [time] NULL,
+	[SatFrom] [time] NULL,
+	[SatTill] [time] NULL,
+	[SunFrom] [time] NULL,
+	[SunTill] [time] NULL,
  CONSTRAINT [PK_Meeting_time] PRIMARY KEY CLUSTERED 
 (
 	[MeetingId] ASC
