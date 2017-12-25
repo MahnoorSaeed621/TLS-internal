@@ -343,6 +343,7 @@
     <Content Include="images\pucit\header_logo.png" />
     <Content Include="images\pucit\PUCIT_Logo.png" />
     <Content Include="images\pucit\sign.png" />
+    <Content Include="img\2.ico" />
     <Content Include="logging.config">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
@@ -610,7 +611,6 @@
     <Folder Include="Content\style\tablesorter\" />
     <Folder Include="css\" />
     <Folder Include="font\" />
-    <Folder Include="img\" />
     <Folder Include="js\" />
     <Folder Include="Scripts\jquery-plugins\Timepicker\css\" />
     <Folder Include="Scripts\jquery-plugins\ToolTip\" />

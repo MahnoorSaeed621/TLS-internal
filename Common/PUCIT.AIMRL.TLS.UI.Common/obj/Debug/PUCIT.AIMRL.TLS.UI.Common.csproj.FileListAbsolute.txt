@@ -9,7 +9,6 @@ G:\FYP\TLS\TLS-Web\TLS\Common\PUCIT.AIMRL.TLS.UI.Common\bin\Debug\PUCIT.AIMRL.Co
 G:\FYP\TLS\TLS-Web\TLS\Common\PUCIT.AIMRL.TLS.UI.Common\obj\Debug\PUCIT.AIMRL.TLS.UI.Common.csprojResolveAssemblyReference.cache
 G:\FYP\TLS\TLS-Web\TLS\Common\PUCIT.AIMRL.TLS.UI.Common\obj\Debug\PUCIT.AIMRL.TLS.UI.Common.dll
 G:\FYP\TLS\TLS-Web\TLS\Common\PUCIT.AIMRL.TLS.UI.Common\obj\Debug\PUCIT.AIMRL.TLS.UI.Common.pdb
-<<<<<<< HEAD
 C:\Users\seemab\Documents\Git REpos\Common\PUCIT.AIMRL.TLS.UI.Common\bin\Debug\PUCIT.AIMRL.TLS.UI.Common.dll
 C:\Users\seemab\Documents\Git REpos\Common\PUCIT.AIMRL.TLS.UI.Common\bin\Debug\PUCIT.AIMRL.TLS.UI.Common.pdb
 C:\Users\seemab\Documents\Git REpos\Common\PUCIT.AIMRL.TLS.UI.Common\bin\Debug\PUCIT.AIMRL.TLS.Entities.dll
@@ -32,16 +31,3 @@ F:\fyp\3rd Deliverable\TLS-internal\Common\PUCIT.AIMRL.TLS.UI.Common\bin\Debug\P
 F:\fyp\3rd Deliverable\TLS-internal\Common\PUCIT.AIMRL.TLS.UI.Common\obj\Debug\PUCIT.AIMRL.TLS.UI.Common.csprojResolveAssemblyReference.cache
 F:\fyp\3rd Deliverable\TLS-internal\Common\PUCIT.AIMRL.TLS.UI.Common\obj\Debug\PUCIT.AIMRL.TLS.UI.Common.dll
 F:\fyp\3rd Deliverable\TLS-internal\Common\PUCIT.AIMRL.TLS.UI.Common\obj\Debug\PUCIT.AIMRL.TLS.UI.Common.pdb
-=======
-F:\FYP\TLS 2017\TLS-internal\TLS-internal\Common\PUCIT.AIMRL.TLS.UI.Common\bin\Debug\PUCIT.AIMRL.TLS.UI.Common.dll
-F:\FYP\TLS 2017\TLS-internal\TLS-internal\Common\PUCIT.AIMRL.TLS.UI.Common\bin\Debug\PUCIT.AIMRL.TLS.UI.Common.pdb
-F:\FYP\TLS 2017\TLS-internal\TLS-internal\Common\PUCIT.AIMRL.TLS.UI.Common\bin\Debug\PUCIT.AIMRL.TLS.Entities.dll
-F:\FYP\TLS 2017\TLS-internal\TLS-internal\Common\PUCIT.AIMRL.TLS.UI.Common\bin\Debug\EntityFramework.dll
-F:\FYP\TLS 2017\TLS-internal\TLS-internal\Common\PUCIT.AIMRL.TLS.UI.Common\bin\Debug\PUCIT.AIMRL.Common.dll
-F:\FYP\TLS 2017\TLS-internal\TLS-internal\Common\PUCIT.AIMRL.TLS.UI.Common\bin\Debug\PUCIT.AIMRL.TLS.Entities.pdb
-F:\FYP\TLS 2017\TLS-internal\TLS-internal\Common\PUCIT.AIMRL.TLS.UI.Common\bin\Debug\EntityFramework.xml
-F:\FYP\TLS 2017\TLS-internal\TLS-internal\Common\PUCIT.AIMRL.TLS.UI.Common\bin\Debug\PUCIT.AIMRL.Common.pdb
-F:\FYP\TLS 2017\TLS-internal\TLS-internal\Common\PUCIT.AIMRL.TLS.UI.Common\obj\Debug\PUCIT.AIMRL.TLS.UI.Common.csprojResolveAssemblyReference.cache
-F:\FYP\TLS 2017\TLS-internal\TLS-internal\Common\PUCIT.AIMRL.TLS.UI.Common\obj\Debug\PUCIT.AIMRL.TLS.UI.Common.dll
-F:\FYP\TLS 2017\TLS-internal\TLS-internal\Common\PUCIT.AIMRL.TLS.UI.Common\obj\Debug\PUCIT.AIMRL.TLS.UI.Common.pdb
->>>>>>> 957efc6fa8d3ef90932f69e22e2fcdc8ebb515b0
