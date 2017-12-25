@@ -5,6 +5,7 @@ G:\FYP\TLS\TLS-Web\TLS\Common\PUCIT.AIMRL.Common.Logger\bin\Debug\log4net.xml
 G:\FYP\TLS\TLS-Web\TLS\Common\PUCIT.AIMRL.Common.Logger\obj\Debug\PUCIT.AIMRL.Common.Logger.csprojResolveAssemblyReference.cache
 G:\FYP\TLS\TLS-Web\TLS\Common\PUCIT.AIMRL.Common.Logger\obj\Debug\PUCIT.AIMRL.Common.Logger.dll
 G:\FYP\TLS\TLS-Web\TLS\Common\PUCIT.AIMRL.Common.Logger\obj\Debug\PUCIT.AIMRL.Common.Logger.pdb
+<<<<<<< HEAD
 C:\Users\seemab\Documents\Git REpos\Common\PUCIT.AIMRL.Common.Logger\bin\Debug\PUCIT.AIMRL.Common.Logger.dll
 C:\Users\seemab\Documents\Git REpos\Common\PUCIT.AIMRL.Common.Logger\bin\Debug\PUCIT.AIMRL.Common.Logger.pdb
 C:\Users\seemab\Documents\Git REpos\Common\PUCIT.AIMRL.Common.Logger\bin\Debug\log4net.dll
@@ -19,3 +20,12 @@ F:\fyp\3rd Deliverable\TLS-internal\Common\PUCIT.AIMRL.Common.Logger\bin\Debug\l
 F:\fyp\3rd Deliverable\TLS-internal\Common\PUCIT.AIMRL.Common.Logger\obj\Debug\PUCIT.AIMRL.Common.Logger.csprojResolveAssemblyReference.cache
 F:\fyp\3rd Deliverable\TLS-internal\Common\PUCIT.AIMRL.Common.Logger\obj\Debug\PUCIT.AIMRL.Common.Logger.dll
 F:\fyp\3rd Deliverable\TLS-internal\Common\PUCIT.AIMRL.Common.Logger\obj\Debug\PUCIT.AIMRL.Common.Logger.pdb
+=======
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\Common\PUCIT.AIMRL.Common.Logger\bin\Debug\PUCIT.AIMRL.Common.Logger.dll
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\Common\PUCIT.AIMRL.Common.Logger\bin\Debug\PUCIT.AIMRL.Common.Logger.pdb
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\Common\PUCIT.AIMRL.Common.Logger\bin\Debug\log4net.dll
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\Common\PUCIT.AIMRL.Common.Logger\bin\Debug\log4net.xml
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\Common\PUCIT.AIMRL.Common.Logger\obj\Debug\PUCIT.AIMRL.Common.Logger.csprojResolveAssemblyReference.cache
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\Common\PUCIT.AIMRL.Common.Logger\obj\Debug\PUCIT.AIMRL.Common.Logger.dll
+F:\FYP\TLS 2017\TLS-internal\TLS-internal\Common\PUCIT.AIMRL.Common.Logger\obj\Debug\PUCIT.AIMRL.Common.Logger.pdb
+>>>>>>> 957efc6fa8d3ef90932f69e22e2fcdc8ebb515b0
