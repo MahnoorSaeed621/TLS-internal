@@ -91,7 +91,7 @@
     <link href="@Url.Content("~/Content/style/PineNotifications/jquery.pnotify.default.css")" rel="stylesheet" type="text/css" />
     <link href="@Url.Content("~/Content/style/PineNotifications/icons/jquery.pnotify.default.icons.css")" rel="stylesheet" type="text/css" />
     <link href="@Url.Content("~/Content/style/PineNotifications/bootstrap.css")" rel="stylesheet" type="text/css" />
-    
+
     <script type="text/javascript" src="@Url.Content("~/Scripts/mywebapp/core/mywebapp.ui.header.js")"></script>
 
     <script src="~/Scripts/bootstrap.min.js"></script>
@@ -185,8 +185,8 @@
                             <span class="bigger-110">Inbox</span>
                         </a>
                     </li>
-                    
-                    @if (PUCIT.AIMRL.TLS.MainApp.Security.PermissionManager.perViewLoginHistoryReport == true )
+
+                    @if (PUCIT.AIMRL.TLS.MainApp.Security.PermissionManager.perViewLoginHistoryReport == true)
                     {
                         <li class="light-blue dropdown-modal">
                             <a data-toggle="dropdown" href="#" class="dropdown-toggle">
@@ -259,7 +259,7 @@
                             </ul>
                         </li>
                     }
-                    @if (PUCIT.AIMRL.TLS.MainApp.Security.PermissionManager.perCanLoginAsOtherUser == true )
+                    @if (PUCIT.AIMRL.TLS.MainApp.Security.PermissionManager.perCanLoginAsOtherUser == true)
                     {
                         <li class="light-blue dropdown-modal">
                             <a data-toggle="dropdown" href="#" class="dropdown-toggle">
@@ -288,7 +288,7 @@
                     <li class="light-blue dropdown-modal">
                         <a data-toggle="dropdown" href="#" class="dropdown-toggle"
                            @if (PUCIT.AIMRL.TLS.UI.Common.SessionManager.LogsInAsOtherUser) {  @: style="background-color: #aee68a;"
-                                                                                                                                                                                                                                         }>
+                                                                                                                                                                                                                                                                    }>
                             <img class="nav-user-photo" src="~/images/avatars/web_hi_res_512.png" alt=Jason's photo" />
                             <span class="user-info">
                                 <small>

@@ -343,6 +343,7 @@
     <Content Include="images\pucit\header_logo.png" />
     <Content Include="images\pucit\PUCIT_Logo.png" />
     <Content Include="images\pucit\sign.png" />
+    <Content Include="img\2.ico" />
     <Content Include="logging.config">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
@@ -569,7 +570,7 @@
     <Content Include="Views\Web.config" />
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
-    <Content Include="Views\Login\Index.cshtml" />
+    <Content Include="Views\Login\Index1.cshtml" />
     <Content Include="Views\Signup\Index.cshtml" />
     <Content Include="Views\Shared\_PublicLayout.cshtml" />
     <Content Include="Views\Login\login.cshtml" />
@@ -598,14 +599,23 @@
     <Content Include="Views\TLS\SignUp3.cshtml">
       <BrowseToURL>~/TLS/SignUp3</BrowseToURL>
     </Content>
+    <Content Include="Views\TLS\index.cshtml" />
+    <Content Include="Views\TLS\page.cshtml" />
+    <Content Include="Views\Shared\header.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="color\" />
+    <Folder Include="contactform\" />
     <Folder Include="Content\bsmodal\images\" />
     <Folder Include="Content\style\tablesorter\" />
+    <Folder Include="css\" />
+    <Folder Include="font\" />
+    <Folder Include="js\" />
     <Folder Include="Scripts\jquery-plugins\Timepicker\css\" />
     <Folder Include="Scripts\jquery-plugins\ToolTip\" />
     <Folder Include="TempFiles\" />
+    <Folder Include="tweet\" />
     <Folder Include="UploadedFiles\" />
   </ItemGroup>
   <ItemGroup>

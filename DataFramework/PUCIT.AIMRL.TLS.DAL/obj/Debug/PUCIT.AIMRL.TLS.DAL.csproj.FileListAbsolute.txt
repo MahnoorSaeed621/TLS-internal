@@ -18,3 +18,43 @@ G:\FYP\TLS\TLS-Web\TLS\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\log4net.xml
 G:\FYP\TLS\TLS-Web\TLS\DataFramework\PUCIT.AIMRL.TLS.DAL\obj\Debug\PUCIT.AIMRL.TLS.DAL.csprojResolveAssemblyReference.cache
 G:\FYP\TLS\TLS-Web\TLS\DataFramework\PUCIT.AIMRL.TLS.DAL\obj\Debug\PUCIT.AIMRL.TLS.DAL.dll
 G:\FYP\TLS\TLS-Web\TLS\DataFramework\PUCIT.AIMRL.TLS.DAL\obj\Debug\PUCIT.AIMRL.TLS.DAL.pdb
+C:\Users\seemab\Documents\Git REpos\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.TLS.DAL.dll.config
+C:\Users\seemab\Documents\Git REpos\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.TLS.DAL.dll
+C:\Users\seemab\Documents\Git REpos\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.TLS.DAL.pdb
+C:\Users\seemab\Documents\Git REpos\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\EntityFramework.dll
+C:\Users\seemab\Documents\Git REpos\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\seemab\Documents\Git REpos\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.Common.dll
+C:\Users\seemab\Documents\Git REpos\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.Common.Logger.dll
+C:\Users\seemab\Documents\Git REpos\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.TLS.Entities.dll
+C:\Users\seemab\Documents\Git REpos\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.TLS.UI.Common.dll
+C:\Users\seemab\Documents\Git REpos\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\log4net.dll
+C:\Users\seemab\Documents\Git REpos\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.Common.Logger.pdb
+C:\Users\seemab\Documents\Git REpos\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.Common.pdb
+C:\Users\seemab\Documents\Git REpos\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.TLS.UI.Common.pdb
+C:\Users\seemab\Documents\Git REpos\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.TLS.Entities.pdb
+C:\Users\seemab\Documents\Git REpos\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\EntityFramework.xml
+C:\Users\seemab\Documents\Git REpos\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\seemab\Documents\Git REpos\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\log4net.xml
+C:\Users\seemab\Documents\Git REpos\DataFramework\PUCIT.AIMRL.TLS.DAL\obj\Debug\PUCIT.AIMRL.TLS.DAL.csprojResolveAssemblyReference.cache
+C:\Users\seemab\Documents\Git REpos\DataFramework\PUCIT.AIMRL.TLS.DAL\obj\Debug\PUCIT.AIMRL.TLS.DAL.dll
+C:\Users\seemab\Documents\Git REpos\DataFramework\PUCIT.AIMRL.TLS.DAL\obj\Debug\PUCIT.AIMRL.TLS.DAL.pdb
+F:\fyp\3rd Deliverable\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.TLS.DAL.dll.config
+F:\fyp\3rd Deliverable\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.TLS.DAL.dll
+F:\fyp\3rd Deliverable\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.TLS.DAL.pdb
+F:\fyp\3rd Deliverable\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\EntityFramework.dll
+F:\fyp\3rd Deliverable\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\fyp\3rd Deliverable\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.Common.dll
+F:\fyp\3rd Deliverable\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.Common.Logger.dll
+F:\fyp\3rd Deliverable\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.TLS.Entities.dll
+F:\fyp\3rd Deliverable\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.TLS.UI.Common.dll
+F:\fyp\3rd Deliverable\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\log4net.dll
+F:\fyp\3rd Deliverable\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.Common.Logger.pdb
+F:\fyp\3rd Deliverable\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.Common.pdb
+F:\fyp\3rd Deliverable\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.TLS.UI.Common.pdb
+F:\fyp\3rd Deliverable\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.TLS.Entities.pdb
+F:\fyp\3rd Deliverable\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\EntityFramework.xml
+F:\fyp\3rd Deliverable\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\fyp\3rd Deliverable\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\log4net.xml
+F:\fyp\3rd Deliverable\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\obj\Debug\PUCIT.AIMRL.TLS.DAL.csprojResolveAssemblyReference.cache
+F:\fyp\3rd Deliverable\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\obj\Debug\PUCIT.AIMRL.TLS.DAL.dll
+F:\fyp\3rd Deliverable\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\obj\Debug\PUCIT.AIMRL.TLS.DAL.pdb
