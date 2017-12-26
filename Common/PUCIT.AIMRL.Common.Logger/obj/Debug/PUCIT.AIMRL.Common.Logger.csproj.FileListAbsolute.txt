@@ -5,6 +5,18 @@ G:\FYP\TLS\TLS-Web\TLS\Common\PUCIT.AIMRL.Common.Logger\bin\Debug\log4net.xml
 G:\FYP\TLS\TLS-Web\TLS\Common\PUCIT.AIMRL.Common.Logger\obj\Debug\PUCIT.AIMRL.Common.Logger.csprojResolveAssemblyReference.cache
 G:\FYP\TLS\TLS-Web\TLS\Common\PUCIT.AIMRL.Common.Logger\obj\Debug\PUCIT.AIMRL.Common.Logger.dll
 G:\FYP\TLS\TLS-Web\TLS\Common\PUCIT.AIMRL.Common.Logger\obj\Debug\PUCIT.AIMRL.Common.Logger.pdb
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+D:\Workplace - DjJazoo\FYP\TLS Internal 18 Dec 2017\TLS-internal\Common\PUCIT.AIMRL.Common.Logger\bin\Debug\PUCIT.AIMRL.Common.Logger.dll
+D:\Workplace - DjJazoo\FYP\TLS Internal 18 Dec 2017\TLS-internal\Common\PUCIT.AIMRL.Common.Logger\bin\Debug\PUCIT.AIMRL.Common.Logger.pdb
+D:\Workplace - DjJazoo\FYP\TLS Internal 18 Dec 2017\TLS-internal\Common\PUCIT.AIMRL.Common.Logger\bin\Debug\log4net.dll
+D:\Workplace - DjJazoo\FYP\TLS Internal 18 Dec 2017\TLS-internal\Common\PUCIT.AIMRL.Common.Logger\bin\Debug\log4net.xml
+D:\Workplace - DjJazoo\FYP\TLS Internal 18 Dec 2017\TLS-internal\Common\PUCIT.AIMRL.Common.Logger\obj\Debug\PUCIT.AIMRL.Common.Logger.csprojResolveAssemblyReference.cache
+D:\Workplace - DjJazoo\FYP\TLS Internal 18 Dec 2017\TLS-internal\Common\PUCIT.AIMRL.Common.Logger\obj\Debug\PUCIT.AIMRL.Common.Logger.dll
+D:\Workplace - DjJazoo\FYP\TLS Internal 18 Dec 2017\TLS-internal\Common\PUCIT.AIMRL.Common.Logger\obj\Debug\PUCIT.AIMRL.Common.Logger.pdb
+=======
+>>>>>>> ba41a1b10526c8e3f88bc70b13926e6bc1dc076a
 C:\Users\seemab\Documents\Git REpos\Common\PUCIT.AIMRL.Common.Logger\bin\Debug\PUCIT.AIMRL.Common.Logger.dll
 C:\Users\seemab\Documents\Git REpos\Common\PUCIT.AIMRL.Common.Logger\bin\Debug\PUCIT.AIMRL.Common.Logger.pdb
 C:\Users\seemab\Documents\Git REpos\Common\PUCIT.AIMRL.Common.Logger\bin\Debug\log4net.dll
@@ -19,3 +31,7 @@ F:\fyp\3rd Deliverable\TLS-internal\Common\PUCIT.AIMRL.Common.Logger\bin\Debug\l
 F:\fyp\3rd Deliverable\TLS-internal\Common\PUCIT.AIMRL.Common.Logger\obj\Debug\PUCIT.AIMRL.Common.Logger.csprojResolveAssemblyReference.cache
 F:\fyp\3rd Deliverable\TLS-internal\Common\PUCIT.AIMRL.Common.Logger\obj\Debug\PUCIT.AIMRL.Common.Logger.dll
 F:\fyp\3rd Deliverable\TLS-internal\Common\PUCIT.AIMRL.Common.Logger\obj\Debug\PUCIT.AIMRL.Common.Logger.pdb
+<<<<<<< HEAD
+=======
+>>>>>>> c577c8b817152eff18cc6c02bfb4ee1bad6fe58c
+>>>>>>> ba41a1b10526c8e3f88bc70b13926e6bc1dc076a

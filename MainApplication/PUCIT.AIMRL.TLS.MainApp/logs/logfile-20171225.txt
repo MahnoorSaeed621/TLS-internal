@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 [Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n
+=======
+<<<<<<< HEAD
+[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n
+=======
+[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n
+>>>>>>> c577c8b817152eff18cc6c02bfb4ee1bad6fe58c
+>>>>>>> ba41a1b10526c8e3f88bc70b13926e6bc1dc076a
