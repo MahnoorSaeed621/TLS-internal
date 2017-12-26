@@ -10,6 +10,16 @@ MyWebApp.UI.SignUp3 = (function () {
 
     function initialisePage() {
         alert("in initialize");
+
+        $('#LicenseNoTextBox').blur(function () {
+            verifyLicenseNo();
+        });
+
+        $('#ShortIntroTextBox').blur(function () {
+            verifyShortIntro();
+        });
+        
+
         debugger;
         if (_isInitialized == false) {
             _isInitialized = true;
@@ -60,6 +70,23 @@ MyWebApp.UI.SignUp3 = (function () {
         //    //Request completed Callback
         //});
 
+    }
+
+    function verifyShortIntro() {
+
+        if ($.trim($('#ShortIntroTextBox').val()) == "") {
+            MyWebApp.UI.showRoasterMessage("You must enter Short Intro", Enums.MessageType.Error);
+            $('#ShortIntroTextBox').focus();
+            return;
+        }
+    }
+    function verifyLicenseNo() {
+
+        if ($.trim($('#LicenseNoTextBox').val()) == "") {
+            MyWebApp.UI.showRoasterMessage("You must enter License No", Enums.MessageType.Error);
+            $('#LicenseNoTextBox').focus();
+            return;
+        }
     }
 
     function validateData() {

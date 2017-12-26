@@ -9,3 +9,14 @@ G:\FYP\TLS\TLS-Web\TLS\Common\PUCIT.AIMRL.TLS.UI.Common\bin\Debug\PUCIT.AIMRL.Co
 G:\FYP\TLS\TLS-Web\TLS\Common\PUCIT.AIMRL.TLS.UI.Common\obj\Debug\PUCIT.AIMRL.TLS.UI.Common.csprojResolveAssemblyReference.cache
 G:\FYP\TLS\TLS-Web\TLS\Common\PUCIT.AIMRL.TLS.UI.Common\obj\Debug\PUCIT.AIMRL.TLS.UI.Common.dll
 G:\FYP\TLS\TLS-Web\TLS\Common\PUCIT.AIMRL.TLS.UI.Common\obj\Debug\PUCIT.AIMRL.TLS.UI.Common.pdb
+D:\Workplace - DjJazoo\FYP\TLS Internal 18 Dec 2017\TLS-internal\Common\PUCIT.AIMRL.TLS.UI.Common\bin\Debug\PUCIT.AIMRL.TLS.UI.Common.dll
+D:\Workplace - DjJazoo\FYP\TLS Internal 18 Dec 2017\TLS-internal\Common\PUCIT.AIMRL.TLS.UI.Common\bin\Debug\PUCIT.AIMRL.TLS.UI.Common.pdb
+D:\Workplace - DjJazoo\FYP\TLS Internal 18 Dec 2017\TLS-internal\Common\PUCIT.AIMRL.TLS.UI.Common\bin\Debug\PUCIT.AIMRL.TLS.Entities.dll
+D:\Workplace - DjJazoo\FYP\TLS Internal 18 Dec 2017\TLS-internal\Common\PUCIT.AIMRL.TLS.UI.Common\bin\Debug\EntityFramework.dll
+D:\Workplace - DjJazoo\FYP\TLS Internal 18 Dec 2017\TLS-internal\Common\PUCIT.AIMRL.TLS.UI.Common\bin\Debug\PUCIT.AIMRL.Common.dll
+D:\Workplace - DjJazoo\FYP\TLS Internal 18 Dec 2017\TLS-internal\Common\PUCIT.AIMRL.TLS.UI.Common\bin\Debug\PUCIT.AIMRL.TLS.Entities.pdb
+D:\Workplace - DjJazoo\FYP\TLS Internal 18 Dec 2017\TLS-internal\Common\PUCIT.AIMRL.TLS.UI.Common\bin\Debug\EntityFramework.xml
+D:\Workplace - DjJazoo\FYP\TLS Internal 18 Dec 2017\TLS-internal\Common\PUCIT.AIMRL.TLS.UI.Common\bin\Debug\PUCIT.AIMRL.Common.pdb
+D:\Workplace - DjJazoo\FYP\TLS Internal 18 Dec 2017\TLS-internal\Common\PUCIT.AIMRL.TLS.UI.Common\obj\Debug\PUCIT.AIMRL.TLS.UI.Common.csprojResolveAssemblyReference.cache
+D:\Workplace - DjJazoo\FYP\TLS Internal 18 Dec 2017\TLS-internal\Common\PUCIT.AIMRL.TLS.UI.Common\obj\Debug\PUCIT.AIMRL.TLS.UI.Common.dll
+D:\Workplace - DjJazoo\FYP\TLS Internal 18 Dec 2017\TLS-internal\Common\PUCIT.AIMRL.TLS.UI.Common\obj\Debug\PUCIT.AIMRL.TLS.UI.Common.pdb
