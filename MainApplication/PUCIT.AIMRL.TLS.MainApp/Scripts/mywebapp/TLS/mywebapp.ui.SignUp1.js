@@ -3,12 +3,12 @@
 MyWebApp.namespace("UI.SignUp1");
 
 MyWebApp.UI.SignUp1 = (function () {
-    alert("1");
     "use strict";
     var _isInitialized = false;
 
 
     function initialisePage() {
+<<<<<<< HEAD
         alert("in initialize");
 
         
@@ -33,6 +33,9 @@ MyWebApp.UI.SignUp1 = (function () {
             verifyConfirmPassword();
         });
 
+=======
+      //  alert("in initialize");
+>>>>>>> c577c8b817152eff18cc6c02bfb4ee1bad6fe58c
         debugger;
         if (_isInitialized == false) {
             _isInitialized = true;
@@ -41,7 +44,7 @@ MyWebApp.UI.SignUp1 = (function () {
     }//End of initialisePage
 
     function BindEvents() {
-        alert("in bindevent");
+        //alert("in bindevent");
 
         $('#submit').click(function (e) {
             //if (validateData())
@@ -55,6 +58,7 @@ MyWebApp.UI.SignUp1 = (function () {
     }
 
     function loadNextPage() {
+<<<<<<< HEAD
         if (document.getElementsByName("gender").value == undefined) {
             MyWebApp.UI.showRoasterMessage("You must enter a user name.", Enums.MessageType.Error);
             $('#gender').focus();
@@ -62,10 +66,14 @@ MyWebApp.UI.SignUp1 = (function () {
             alert("Null");
         }
             alert("in load next");
+=======
+        //alert("in load next");
+>>>>>>> c577c8b817152eff18cc6c02bfb4ee1bad6fe58c
 
         debugger;
         window.location.href = "/TLS/TLS/SignUp2";
 
+<<<<<<< HEAD
         //"@Url.Action("Action", "Controller")";
 
         //var url = "/TLS/TLS/SignUp2";
@@ -88,11 +96,13 @@ MyWebApp.UI.SignUp1 = (function () {
         //}).always(function (data) {
         //    //Request completed Callback
         //});
+=======
+>>>>>>> c577c8b817152eff18cc6c02bfb4ee1bad6fe58c
 
     }
 
     function validateData() {
-
+        alert('jazib pagal hai');
     }
     function verifyGender() {
 
@@ -183,70 +193,33 @@ MyWebApp.UI.SignUp1 = (function () {
     function saveData() {
         debugger;
 
+        //getting data from fields
         var email = $("#email").val();
         var gender = $("#gender").val();
         var fname = $("#fname").val();
         var lname = $("#lname").val();
         var password = $("#password").val();
         var usertype = $("#usertype").val();
-        //submit
 
-        
-        //var UserObj = {
-        //    FName: fname,
-        //    LName: lname,
-        //    Gender :gender,
-        //    UserType :usertype,
-        //    Password : password,
-        //    Email: email
-        //}
-
-
-        var UserObj = {
+        //JS object for storing data
+        var user = {
             FirstName: fname,
             LastName: lname,
             Gender :gender,
             UserType :usertype,
             Password : password,
-            Email: email
+            Email: email,
+            Gender: "",
+            DateOfBirth: "",
+            Cnic: "",
+            CellNo: ""
         }
 
-        //public class Users
-        //{
+        //saving data on local storage
+        localStorage.setItem('user', JSON.stringify(user));
 
-        //[Key]
-        //public int UserId { get; set; }
-        //    public String Login { get; set; }
-        //    public String Email { get; set; }
-        //    public String Password { get; set; }
-        //    public String FirstName { get; set; }
-        //    public String LastName { get; set; }
-        //    public int Gender { get; set; }
-        //    public DateTime DateOfBirth { get; set; }
-        //    public String Cnic { get; set; }
-        //    public String CellNo { get; set; }
-        //    public String LandLine { get; set; }
-        //    public String ProfilePicture { get; set; }
 
-        //}
 
-        var dateToSend = JSON.stringify(UserObj);
-        var url = "TLSInfo/saveUser";
-
-        MyWebApp.Globals.MakeAjaxCall("POST", url, dateToSend, function (result) {
-            //
-            debugger;
-            if (result.success == true) {
-                console.log(result);
-                alert("Data Saved successfully")
-            }
-            else {
-                MyWebApp.UI.showRoasterMessage(result.error, Enums.NessageType.Error);
-            }
-
-        }, function (xhr, ajaxOptions, thrownError) {
-            MyWebApp.UI.showRoasterMessage('A problem has occured while saving data: ' + thrownError + '", Please try Again."', Enums.MessageType.Error);
-        });
 
     }
 

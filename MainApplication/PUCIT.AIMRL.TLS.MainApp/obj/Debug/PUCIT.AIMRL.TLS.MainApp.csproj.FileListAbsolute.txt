@@ -55,6 +55,7 @@ G:\FYP\TLS\TLS-Web\TLS\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.We
 G:\FYP\TLS\TLS-Web\TLS\MainApplication\PUCIT.AIMRL.TLS.MainApp\obj\Debug\PUCIT.AIMRL.TLS.MainApp.csprojResolveAssemblyReference.cache
 G:\FYP\TLS\TLS-Web\TLS\MainApplication\PUCIT.AIMRL.TLS.MainApp\obj\Debug\PUCIT.AIMRL.TLS.MainApp.dll
 G:\FYP\TLS\TLS-Web\TLS\MainApplication\PUCIT.AIMRL.TLS.MainApp\obj\Debug\PUCIT.AIMRL.TLS.MainApp.pdb
+<<<<<<< HEAD
 D:\Workplace - DjJazoo\FYP\TLS Internal 18 Dec 2017\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\logging.config
 D:\Workplace - DjJazoo\FYP\TLS Internal 18 Dec 2017\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\PUCIT.AIMRL.TLS.MainApp.dll.config
 D:\Workplace - DjJazoo\FYP\TLS Internal 18 Dec 2017\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\PUCIT.AIMRL.TLS.MainApp.dll
@@ -106,3 +107,115 @@ D:\Workplace - DjJazoo\FYP\TLS Internal 18 Dec 2017\TLS-internal\MainApplication
 D:\Workplace - DjJazoo\FYP\TLS Internal 18 Dec 2017\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\obj\Debug\PUCIT.AIMRL.TLS.MainApp.csprojResolveAssemblyReference.cache
 D:\Workplace - DjJazoo\FYP\TLS Internal 18 Dec 2017\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\obj\Debug\PUCIT.AIMRL.TLS.MainApp.dll
 D:\Workplace - DjJazoo\FYP\TLS Internal 18 Dec 2017\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\obj\Debug\PUCIT.AIMRL.TLS.MainApp.pdb
+=======
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\logging.config
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\PUCIT.AIMRL.TLS.MainApp.dll.config
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\PUCIT.AIMRL.TLS.MainApp.dll
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\PUCIT.AIMRL.TLS.MainApp.pdb
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\Antlr3.Runtime.dll
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\log4net.dll
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\MvcSiteMapProvider.dll
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\MvcSiteMapProvider.WebActivator.dll
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\Newtonsoft.Json.dll
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\PUCIT.AIMRL.Common.dll
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\PUCIT.AIMRL.Common.Logger.dll
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\PUCIT.AIMRL.TLS.DAL.dll
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\PUCIT.AIMRL.TLS.Entities.dll
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\PUCIT.AIMRL.TLS.UI.Common.dll
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Net.Http.dll
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Net.Http.Formatting.dll
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Net.Http.WebRequest.dll
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.Helpers.dll
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.Http.dll
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.Http.WebHost.dll
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.Optimization.dll
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.Razor.dll
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.WebPages.dll
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\WebActivatorEx.dll
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\WebGrease.dll
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\Microsoft.Web.Administration.dll
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\PUCIT.AIMRL.Common.Logger.pdb
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\PUCIT.AIMRL.Common.pdb
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\PUCIT.AIMRL.TLS.UI.Common.pdb
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\PUCIT.AIMRL.TLS.DAL.pdb
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\PUCIT.AIMRL.TLS.Entities.pdb
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\EntityFramework.xml
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\EntityFramework.SqlServer.xml
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\log4net.xml
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\MvcSiteMapProvider.xml
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\MvcSiteMapProvider.WebActivator.xml
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\Newtonsoft.Json.xml
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Net.Http.xml
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Net.Http.Formatting.xml
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Net.Http.WebRequest.xml
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.Helpers.xml
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.Http.xml
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.Http.WebHost.xml
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.Mvc.xml
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.Razor.xml
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.WebPages.xml
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\obj\Debug\PUCIT.AIMRL.TLS.MainApp.csprojResolveAssemblyReference.cache
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\obj\Debug\PUCIT.AIMRL.TLS.MainApp.dll
+C:\Users\seemab\Documents\Git REpos\MainApplication\PUCIT.AIMRL.TLS.MainApp\obj\Debug\PUCIT.AIMRL.TLS.MainApp.pdb
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\logging.config
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\PUCIT.AIMRL.TLS.MainApp.dll.config
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\PUCIT.AIMRL.TLS.MainApp.dll
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\PUCIT.AIMRL.TLS.MainApp.pdb
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\Antlr3.Runtime.dll
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\log4net.dll
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\Microsoft.Web.Infrastructure.dll
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\MvcSiteMapProvider.dll
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\MvcSiteMapProvider.WebActivator.dll
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\Newtonsoft.Json.dll
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\PUCIT.AIMRL.Common.dll
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\PUCIT.AIMRL.Common.Logger.dll
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\PUCIT.AIMRL.TLS.DAL.dll
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\PUCIT.AIMRL.TLS.Entities.dll
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\PUCIT.AIMRL.TLS.UI.Common.dll
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Net.Http.dll
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Net.Http.Formatting.dll
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Net.Http.WebRequest.dll
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.Helpers.dll
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.Http.dll
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.Http.WebHost.dll
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.Optimization.dll
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.Razor.dll
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.WebPages.Deployment.dll
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.WebPages.dll
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.WebPages.Razor.dll
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\WebActivatorEx.dll
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\WebGrease.dll
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\Microsoft.Web.Administration.dll
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\PUCIT.AIMRL.Common.Logger.pdb
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\PUCIT.AIMRL.Common.pdb
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\PUCIT.AIMRL.TLS.UI.Common.pdb
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\PUCIT.AIMRL.TLS.DAL.pdb
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\PUCIT.AIMRL.TLS.Entities.pdb
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\EntityFramework.xml
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\EntityFramework.SqlServer.xml
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\log4net.xml
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\MvcSiteMapProvider.xml
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\MvcSiteMapProvider.WebActivator.xml
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\Newtonsoft.Json.xml
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Net.Http.xml
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Net.Http.Formatting.xml
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Net.Http.WebRequest.xml
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.Helpers.xml
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.Http.xml
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.Http.WebHost.xml
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.Mvc.xml
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.Razor.xml
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.WebPages.xml
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.WebPages.Deployment.xml
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\bin\System.Web.WebPages.Razor.xml
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\obj\Debug\PUCIT.AIMRL.TLS.MainApp.csprojResolveAssemblyReference.cache
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\obj\Debug\PUCIT.AIMRL.TLS.MainApp.dll
+F:\fyp\3rd Deliverable\TLS-internal\MainApplication\PUCIT.AIMRL.TLS.MainApp\obj\Debug\PUCIT.AIMRL.TLS.MainApp.pdb
+>>>>>>> c577c8b817152eff18cc6c02bfb4ee1bad6fe58c
