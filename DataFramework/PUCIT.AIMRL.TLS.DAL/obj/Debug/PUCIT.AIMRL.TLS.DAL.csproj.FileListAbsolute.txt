@@ -19,6 +19,7 @@ G:\FYP\TLS\TLS-Web\TLS\DataFramework\PUCIT.AIMRL.TLS.DAL\obj\Debug\PUCIT.AIMRL.T
 G:\FYP\TLS\TLS-Web\TLS\DataFramework\PUCIT.AIMRL.TLS.DAL\obj\Debug\PUCIT.AIMRL.TLS.DAL.dll
 G:\FYP\TLS\TLS-Web\TLS\DataFramework\PUCIT.AIMRL.TLS.DAL\obj\Debug\PUCIT.AIMRL.TLS.DAL.pdb
 <<<<<<< HEAD
+=======
 D:\Workplace - DjJazoo\FYP\TLS Internal 18 Dec 2017\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.TLS.DAL.dll.config
 D:\Workplace - DjJazoo\FYP\TLS Internal 18 Dec 2017\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.TLS.DAL.dll
 D:\Workplace - DjJazoo\FYP\TLS Internal 18 Dec 2017\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.TLS.DAL.pdb
@@ -39,7 +40,8 @@ D:\Workplace - DjJazoo\FYP\TLS Internal 18 Dec 2017\TLS-internal\DataFramework\P
 D:\Workplace - DjJazoo\FYP\TLS Internal 18 Dec 2017\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\obj\Debug\PUCIT.AIMRL.TLS.DAL.csprojResolveAssemblyReference.cache
 D:\Workplace - DjJazoo\FYP\TLS Internal 18 Dec 2017\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\obj\Debug\PUCIT.AIMRL.TLS.DAL.dll
 D:\Workplace - DjJazoo\FYP\TLS Internal 18 Dec 2017\TLS-internal\DataFramework\PUCIT.AIMRL.TLS.DAL\obj\Debug\PUCIT.AIMRL.TLS.DAL.pdb
-=======
+>>>>>>> ba41a1b10526c8e3f88bc70b13926e6bc1dc076a
+>>>>>>> 705e844a2b0412777457865afaa2dc9150ae4264
 C:\Users\seemab\Documents\Git REpos\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.TLS.DAL.dll.config
 C:\Users\seemab\Documents\Git REpos\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.TLS.DAL.dll
 C:\Users\seemab\Documents\Git REpos\DataFramework\PUCIT.AIMRL.TLS.DAL\bin\Debug\PUCIT.AIMRL.TLS.DAL.pdb
