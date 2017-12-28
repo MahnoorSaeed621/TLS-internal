@@ -100,6 +100,8 @@ MyWebApp.UI.SignUp3 = (function () {
 
         var LicenseNo = $("#license no").val();
         var ShortIntro = $("#shortintro").val();
+        var email = $("#email").val();
+        var gender = $("#gender").val();
         var fname = $("#fname").val();
         var lname = $("#lname").val();
         var password = $("#password").val();

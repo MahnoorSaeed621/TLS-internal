@@ -9,8 +9,9 @@ namespace PUCIT.AIMRL.TLS.MainApp.Controllers
     public class TLSController : Controller
     {
 
-       
-       
+        //
+        // GET: /TLS/
+
         public ActionResult Index()
         {
             return View();
@@ -22,6 +23,9 @@ namespace PUCIT.AIMRL.TLS.MainApp.Controllers
 
         public ActionResult SignUp2()
         {
+            Session["user"] = "";
+            //HttpContext context = HttpContext.Current;
+           // context.Session["userFname"] = fname;
 
             return View();
         }

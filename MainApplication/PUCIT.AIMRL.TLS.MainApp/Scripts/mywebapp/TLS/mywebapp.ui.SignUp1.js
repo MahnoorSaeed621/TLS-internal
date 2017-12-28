@@ -3,6 +3,7 @@
 MyWebApp.namespace("UI.SignUp1");
 
 MyWebApp.UI.SignUp1 = (function () {
+    alert("1");
     "use strict";
     var _isInitialized = false;
 
@@ -45,6 +46,7 @@ MyWebApp.UI.SignUp1 = (function () {
 
     function BindEvents() {
         //alert("in bindevent");
+        alert("in bindevent");
 
         $('#submit').click(function (e) {
             //if (validateData())
@@ -200,9 +202,22 @@ MyWebApp.UI.SignUp1 = (function () {
         var lname = $("#lname").val();
         var password = $("#password").val();
         var usertype = $("#usertype").val();
+        //submit
+
+        
+        //var UserObj = {
+        //    FName: fname,
+        //    LName: lname,
+        //    Gender :gender,
+        //    UserType :usertype,
+        //    Password : password,
+        //    Email: email
+        //}
 
         //JS object for storing data
         var user = {
+
+        var UserObj = {
             FirstName: fname,
             LastName: lname,
             Gender :gender,
@@ -213,13 +228,49 @@ MyWebApp.UI.SignUp1 = (function () {
             DateOfBirth: "",
             Cnic: "",
             CellNo: ""
+            Email: email
         }
 
         //saving data on local storage
         localStorage.setItem('user', JSON.stringify(user));
 
 
+        //public class Users
+        //{
 
+        //[Key]
+        //public int UserId { get; set; }
+        //    public String Login { get; set; }
+        //    public String Email { get; set; }
+        //    public String Password { get; set; }
+        //    public String FirstName { get; set; }
+        //    public String LastName { get; set; }
+        //    public int Gender { get; set; }
+        //    public DateTime DateOfBirth { get; set; }
+        //    public String Cnic { get; set; }
+        //    public String CellNo { get; set; }
+        //    public String LandLine { get; set; }
+        //    public String ProfilePicture { get; set; }
+
+        //}
+
+        var dateToSend = JSON.stringify(UserObj);
+        var url = "TLSInfo/saveUser";
+
+        MyWebApp.Globals.MakeAjaxCall("POST", url, dateToSend, function (result) {
+            //
+            debugger;
+            if (result.success == true) {
+                console.log(result);
+                alert("Data Saved successfully")
+            }
+            else {
+                MyWebApp.UI.showRoasterMessage(result.error, Enums.NessageType.Error);
+            }
+
+        }, function (xhr, ajaxOptions, thrownError) {
+            MyWebApp.UI.showRoasterMessage('A problem has occured while saving data: ' + thrownError + '", Please try Again."', Enums.MessageType.Error);
+        });
 
     }
 

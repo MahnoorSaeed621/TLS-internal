@@ -571,6 +571,7 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Login\Index1.cshtml" />
+    <Content Include="Views\Login\Index.cshtml" />
     <Content Include="Views\Signup\Index.cshtml" />
     <Content Include="Views\Shared\_PublicLayout.cshtml" />
     <Content Include="Views\Login\login.cshtml" />
@@ -602,6 +603,10 @@
     <Content Include="Views\TLS\index.cshtml" />
     <Content Include="Views\TLS\page.cshtml" />
     <Content Include="Views\Shared\header.cshtml" />
+    <Content Include="Views\TLS\SignUp1.cshtml" />
+    <Content Include="Views\TLS\SignUp2.cshtml" />
+    <Content Include="Views\TLS\SignUp3.cshtml" />
+    <Content Include="Scripts\mywebapp\TLS\mywebapp.ui.SignUp3" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

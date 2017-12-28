@@ -40,6 +40,7 @@ MyWebApp.UI.SignUp2 = (function () {
         $('#btn-next').click(function (e) {
             //if (validateData()) {
             saveData();
+            //saveData();
             loadNextPage();
             //}
             return false;
@@ -48,6 +49,7 @@ MyWebApp.UI.SignUp2 = (function () {
     }
 
     function loadNextPage() {
+        alert("in load next");
 
         debugger;
 
@@ -56,6 +58,7 @@ MyWebApp.UI.SignUp2 = (function () {
         if (user.usertype == 'Lawyer')
             window.location.href = "/TLS/TLS/SignUp3";
 
+        window.location.href = "/TLS/TLS/SignUp3";
     }
 
     function validateData() {
@@ -135,9 +138,38 @@ MyWebApp.UI.SignUp2 = (function () {
             DOB: DOB,
             CNIC : CNIC,
             cellNo: cellNo,
+
+
+        //btn-next
+
+
+        var UserObj = {
+            FName: fname,
+            LName: lname,
+            Gender: gender,
+            UserType: usertype,
+            Password: password,
+            Email: email
         }
 
         localStorage.setItem('page2SignUpData', page2SignUpData);
+        var dateToSend = JSON.stringify(UserObj);
+        var url = "TLSInfo/saveUser";
+
+        MyWebApp.Globals.MakeAjaxCall("POST", url, dateToSend, function (result) {
+            //
+            debugger;
+            if (result.success == true) {
+                console.log(result);
+                alert("Data Saved successfully")
+            }
+            else {
+                MyWebApp.UI.showRoasterMessage(result.error, Enums.NessageType.Error);
+            }
+
+        }, function (xhr, ajaxOptions, thrownError) {
+            MyWebApp.UI.showRoasterMessage('A problem has occured while saving data: ' + thrownError + '", Please try Again."', Enums.MessageType.Error);
+        });
 
     }
 
