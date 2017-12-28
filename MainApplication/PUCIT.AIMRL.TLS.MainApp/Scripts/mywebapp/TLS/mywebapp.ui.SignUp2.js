@@ -9,6 +9,26 @@ MyWebApp.UI.SignUp2 = (function () {
 
     function initialisePage() {
 
+        $('#AddressLine1TextBox').blur(function () {
+            verifyAddressLine1();
+        });
+        $('#AddressLine2TextBox').blur(function () {
+            verifyAddressLine2();
+        });
+
+        $('#PostalCodeTextBox').blur(function () {
+            verifyPostalCode();
+        });
+
+        $('#CNICTextBox').blur(function () {
+            verifyCNIC();
+        });
+        $('#CellTextBox').blur(function () {
+            verifyCell();
+        });
+
+        
+
         if (_isInitialized == false) {
             _isInitialized = true;
             BindEvents();
@@ -41,7 +61,46 @@ MyWebApp.UI.SignUp2 = (function () {
     function validateData() {
 
     }
+    function verifyAddressLine1() {
 
+        if ($.trim($('#AddressLine1TextBox').val()) == "") {
+            MyWebApp.UI.showRoasterMessage("You must enter address line 1", Enums.MessageType.Error);
+            $('#AddressLine1TextBox').focus();
+            return;
+        }
+    }
+    function verifyAddressLine2() {
+
+        if ($.trim($('#AddressLine2TextBox').val()) == "") {
+            MyWebApp.UI.showRoasterMessage("You must enter address line 2", Enums.MessageType.Error);
+            $('#AddressLine2TextBox').focus();
+            return;
+        }
+    }
+    function verifyPostalCode() {
+
+        if ($.trim($('#PostalCodeTextBox').val()) == "") {
+            MyWebApp.UI.showRoasterMessage("You must enter postal code", Enums.MessageType.Error);
+            $('#PostalCodeTextBox').focus();
+            return;
+        }
+    }
+    function verifyCNIC() {
+
+        if ($.trim($('#CNICTextBox').val()) == "") {
+            MyWebApp.UI.showRoasterMessage("You must enter address CNIC", Enums.MessageType.Error);
+            $('#CNICTextBox').focus();
+            return;
+        }
+    }
+    function verifyCell() {
+
+        if ($.trim($('#CellTextBox').val()) == "") {
+            MyWebApp.UI.showRoasterMessage("You must enter address Cell Number", Enums.MessageType.Error);
+            $('#CellTextBox').focus();
+            return;
+        }
+    }
     function saveData() {
         
         debugger;

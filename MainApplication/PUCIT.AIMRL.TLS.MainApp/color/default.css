@@ -1,25 +1,37 @@
 ::-moz-selection {
 background:#e06d5e;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 892165774783718762f14b521ebabf21de12177c
 ::selection {
 background:#e06d5e;
 }
 
 .navbar .brand a:hover {
+<<<<<<< HEAD
 	color:#757a79 ;
 /*color:#1BAC91;*/
+=======
+	color:#1BAC91;
+>>>>>>> 892165774783718762f14b521ebabf21de12177c
 }
 
 
 
 ul#menu-main > li > a:hover {
+<<<<<<< HEAD
 	color: #757a79; 
 /*color:#1BAC91;*/
+=======
+	color: #1BAC91;
+>>>>>>> 892165774783718762f14b521ebabf21de12177c
 }
 
 
 ul#menu-main > li > a:focus,ul#menu-main > li > a:active, ul#menu-main > li > a.selected, ul#menu-main li a.selected:active    {
+<<<<<<< HEAD
 	color: #757a79 
 /*color:#1BAC91;*/
 }
@@ -42,16 +54,39 @@ ul#menu-main > li > a:focus,ul#menu-main > li > a:active, ul#menu-main > li > a.
          background: #757a79 !important;
 	/* background: #26c8aa !important; */
       
+=======
+	color: #1BAC91;
+}
+#header-wrapper h1 span {
+	color:#1BAC91;
+}
+
+#header-wrapper input[type=submit] {
+	background: #1BAC91 !important;
+}
+
+#theme-form input[type=submit] {
+	background: #1BAC91 !important;
+}
+
+.btn.btn-theme {
+	background: #26c8aa !important;
+>>>>>>> 892165774783718762f14b521ebabf21de12177c
 }
 
 /* blog */
 .home-post .post-meta {
+<<<<<<< HEAD
 	background: #757a79;
 /*background: #1BAC91; */
+=======
+	background: #1BAC91;
+>>>>>>> 892165774783718762f14b521ebabf21de12177c
 }
 
 /* com */
 .tabbable ul.nav-tabs li.active a,.tabbable ul.nav-tabs li a:hover {
+<<<<<<< HEAD
 	color: #757a79;
 /*color: #1BAC91; */
 }
@@ -63,6 +98,16 @@ ul#menu-main > li > a:focus,ul#menu-main > li > a:active, ul#menu-main > li > a.
 #tweet ul li a {
 	color: #757a79; 
 /*color: #1BAC91; */
+=======
+	color: #1BAC91;
+}
+.accordion .accordion-heading a.active {
+	color: #1BAC91;
+}
+
+#tweet ul li a {
+	color: #1BAC91;
+>>>>>>> 892165774783718762f14b521ebabf21de12177c
 }
 
 
@@ -73,13 +118,21 @@ ul#menu-main > li > a:focus,ul#menu-main > li > a:active, ul#menu-main > li > a.
 }
 
 .portfolio .portfolio-overlay {
+<<<<<<< HEAD
 	background: #757a79;
 /* background: #1BAC91; */
+=======
+	background: #1BAC91;
+>>>>>>> 892165774783718762f14b521ebabf21de12177c
 }
 
 /* icon */
 i.icon-bgdark:hover {
+<<<<<<< HEAD
 	background:  #757a79;
+=======
+	background: #26c8aa;
+>>>>>>> 892165774783718762f14b521ebabf21de12177c
 }
 
 i.icon-bgdark.active {

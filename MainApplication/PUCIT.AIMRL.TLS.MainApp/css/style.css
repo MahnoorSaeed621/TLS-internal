@@ -476,7 +476,11 @@ section.spacer {
 }
 
 .spacer.green,.section.green {
+<<<<<<< HEAD
 	background:#9aa0a0;
+=======
+	background:#1bac91;
+>>>>>>> 892165774783718762f14b521ebabf21de12177c
 }
 
 .spacer.green,.section.green h4 {
@@ -487,7 +491,11 @@ section.spacer {
 	background:#ffe873;
 }
 .spacer.orange,.section.orange {
+<<<<<<< HEAD
 	background:#9aa0a0;
+=======
+	background:#f36f36;
+>>>>>>> 892165774783718762f14b521ebabf21de12177c
 }
 
 section.spacer.bg2 {
