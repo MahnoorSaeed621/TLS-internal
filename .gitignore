@@ -1,0 +1,13 @@
+/MainApplication/PUCIT.AIMRL.TLS.MainApp/bin
+/DataFramework/PUCIT.AIMRL.TLS.Entities/bin
+/DataFramework/PUCIT.AIMRL.TLS.DAL/bin
+/Common/PUCIT.AIMRL.Common/bin
+/Common/PUCIT.AIMRL.TLS.UI.Common/bin
+/Common/PUCIT.AIMRL.Common.Logger/bin
+/Common/PUCIT.AIMRL.Common.Logger/obj
+/MainApplication/PUCIT.AIMRL.TLS.MainApp/obj
+/DataFramework/PUCIT.AIMRL.TLS.Entities/obj
+/DataFramework/PUCIT.AIMRL.TLS.DAL/obj
+/Common/PUCIT.AIMRL.TLS.UI.Common/obj
+/Common/PUCIT.AIMRL.Common/obj
+/packages
